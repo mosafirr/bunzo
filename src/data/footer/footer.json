@@ -11,10 +11,6 @@
                 "path": "/contact-us"
             },
             {
-                "text": "Local Print Ads",
-                "path": "/customize-i-woocommerce-theme-with-countless-video"
-            },
-            {
                 "text": "FAQ’s",
                 "path": "/faq"
             },
@@ -47,24 +43,24 @@
         ],
         "quickLinkThree": [
             {
-                "text": "Lefestyle",
-                "path": "/category/food"
+                "text": "Tutrial",
+                "path": "/category/tor"
             },
             {
-                "text": "Healthy",
-                "path": "/category/food"
+                "text": "Tools",
+                "path": "/category/tools"
             },
             {
-                "text": "Restaurent",
-                "path": "/category/food"
+                "text": "Windows",
+                "path": "/category/windows"
             },
             {
-                "text": "Travel Tips",
-                "path": "/customize-i-woocommerce-theme-with-countless-video"
+                "text": "Video",
+                "path": "/category/video"
             },
             {
-                "text": "Marketing",
-                "path": "/category/food"
+                "text": "internet",
+                "path": "/category/internet"
             }
         ]
     }
