@@ -158,16 +158,14 @@ const Footer = () => {
                                 <CopyrightText>
                                     &copy; {new Date().getFullYear()} 
                                     <a
-                                        href="https://hasthemes.com/"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                    > Bunzo </a>. Made  with <HeartIcon /> by{" "}
+                                        href="/"
+                                    > CyberPost </a>. Made  with <HeartIcon /> by{" "}
                                     <a
-                                        href="https://hasthemes.com/"
+                                        href="https://t.me/xteambd"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                     >
-                                        HasThemes
+                                        Xtembd
                                     </a>
                                 </CopyrightText>
                                 <ButtonRightBox>
