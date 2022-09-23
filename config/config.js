@@ -8,10 +8,10 @@ module.exports = {
     twitterUsername: "@bunzo",
     keywords: ["bootstrap", "html", "react", "gatsby", "template", "blog", "creative"],
     image: "banner_image.png",
-    siteUrl: "https://bunzo.com",
-    pathPrefix: "/bootstrap-template",
+    siteUrl: "https://bunzo-24hj.vercel.app/",
+    pathPrefix: "/",
     localUrl: "http://localhost:8000",
-    canonical: "https://bunzo.com",
+    canonical: "https://bunzo-24hj.vercel.app/",
     social: {
         facebook: "https://www.facebook.com/bunzo",
         twitter: "https://twitter.com/bunzo",
